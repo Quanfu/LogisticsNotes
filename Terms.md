@@ -2,7 +2,7 @@
 
 
 
-### 寄件人(SHIPPER)
+### 寄件人(CONSIGNOR/SHIPPER)
 
 **Shipper/Exporter**
 >The shipper, or exporter, is the party responsible for packing and preparing all the goods being sent, as well as handling all documents and paperwork needed. These include obtaining the proper licenses and checking for customs exceptions and restrictions to prevent problems during customs clearance both at origin and destination port.
@@ -25,4 +25,5 @@
 >The notify party is the contact person to be notified when the shipment arrives at destination. This field is usually only required if it’s different from the party listed in the consignee field. The notify party can be the buyer himself, the shipping agent, or any other entity. The notify party is usually also responsible for arranging customs clearance at destination.
 
 ## Reference
-[Shipper, Consignee and Notify Party - Who is who]()
+[Shipper, Consignee and Notify Party - Who is who](https://www.icontainers.com/help/difference-between-shipper-consignee-notify-party/)
+[Waybill](https://en.wikipedia.org/wiki/Waybill)
