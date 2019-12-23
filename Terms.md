@@ -27,3 +27,7 @@
 ## Reference
 [Shipper, Consignee and Notify Party - Who is who](https://www.icontainers.com/help/difference-between-shipper-consignee-notify-party/)
 [Waybill](https://en.wikipedia.org/wiki/Waybill)
+
+
+### 邮费（Postage）
+
